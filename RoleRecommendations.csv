@@ -1,0 +1,100 @@
+Role Recommendation,Associated Entitlements,Frequency
+role1,"View only Login As,Manage Content,View content reports",125
+role2,"View Customer Account Balances,View only Login As,Manage Content",133
+role3,"View Customer Account Balances,View only Login As,Manage Content,View content reports",125
+role4,"View Customer Account Balances,View only Login As,View content reports",146
+role5,"View Customer Account Balances,Manage Content,View content reports",125
+role6,"Manage Content Rules,View only Login As,Manage Content",133
+role7,"Manage Content Rules,View only Login As,Manage Content,View content reports",125
+role8,"Manage Content Rules,View only Login As,View content reports",125
+role9,"Manage Content Rules,Manage Content,View content reports",145
+role10,"Manage Content Rules,View Customer Account Balances,View only Login As",133
+role11,"Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content",133
+role12,"Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content,View content reports",125
+role13,"Manage Content Rules,View Customer Account Balances,View only Login As,View content reports",125
+role14,"Manage Content Rules,View Customer Account Balances,Manage Content",133
+role15,"Manage Content Rules,View Customer Account Balances,Manage Content,View content reports",125
+role16,"Manage Content Rules,View Customer Account Balances,View content reports",125
+role17,"View Operation Reports,View only Login As,Manage Content",125
+role18,"View Operation Reports,View only Login As,Manage Content,View content reports",125
+role19,"View Operation Reports,View only Login As,View content reports",135
+role20,"View Operation Reports,Manage Content Rules,View only Login As",125
+role21,"View Operation Reports,Manage Content Rules,View only Login As,Manage Content",125
+role22,"View Operation Reports,Manage Content Rules,View only Login As,Manage Content,View content reports",125
+role23,"View Operation Reports,Manage Content Rules,View only Login As,View content reports",125
+role24,"View Operation Reports,Manage Content Rules,Manage Content",141
+role25,"View Operation Reports,Manage Content Rules,Manage Content,View content reports",141
+role26,"View Operation Reports,Manage Content Rules,View Customer Account Balances",125
+role27,"View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As",125
+role28,"View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content",125
+role29,"View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content,View content reports",125
+role30,"View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As,View content reports",125
+role31,"View Operation Reports,Manage Content Rules,View Customer Account Balances,Manage Content",125
+role32,"View Operation Reports,Manage Content Rules,View Customer Account Balances,Manage Content,View content reports",125
+role33,"View Operation Reports,Manage Content Rules,View Customer Account Balances,View content reports",125
+role34,"View Operation Reports,Manage Content Rules,View content reports",141
+role35,"View Operation Reports,Manage Content,View content reports",141
+role36,"View Operation Reports,View Customer Account Balances,View only Login As",135
+role37,"View Operation Reports,View Customer Account Balances,View only Login As,Manage Content",125
+role38,"View Operation Reports,View Customer Account Balances,View only Login As,Manage Content,View content reports",125
+role39,"View Operation Reports,View Customer Account Balances,View only Login As,View content reports",135
+role40,"View Operation Reports,View Customer Account Balances,Manage Content",125
+role41,"View Operation Reports,View Customer Account Balances,Manage Content,View content reports",125
+role42,"View Operation Reports,View Customer Account Balances,View content reports",135
+role43,"View/Response messages,View only Login As,Manage Content",124
+role44,"View/Response messages,View only Login As,Manage Content,View content reports",124
+role45,"View/Response messages,View only Login As,View content reports",145
+role46,"View/Response messages,View Operation Reports,View only Login As",134
+role47,"View/Response messages,View Operation Reports,View only Login As,Manage Content",124
+role48,"View/Response messages,View Operation Reports,View only Login As,Manage Content,View content reports",124
+role49,"View/Response messages,View Operation Reports,View only Login As,View content reports",134
+role50,"View/Response messages,View Operation Reports,Manage Content Rules",124
+role51,"View/Response messages,View Operation Reports,Manage Content Rules,View only Login As",124
+role52,"View/Response messages,View Operation Reports,Manage Content Rules,View only Login As,Manage Content",124
+role53,"View/Response messages,View Operation Reports,Manage Content Rules,View only Login As,Manage Content,View content reports",124
+role54,"View/Response messages,View Operation Reports,Manage Content Rules,View only Login As,View content reports",124
+role55,"View/Response messages,View Operation Reports,Manage Content Rules,Manage Content",124
+role56,"View/Response messages,View Operation Reports,Manage Content Rules,Manage Content,View content reports",124
+role57,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances",124
+role58,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As",124
+role59,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content",124
+role60,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content,View content reports",124
+role61,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances,View only Login As,View content reports",124
+role62,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances,Manage Content",124
+role63,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances,Manage Content,View content reports",124
+role64,"View/Response messages,View Operation Reports,Manage Content Rules,View Customer Account Balances,View content reports",124
+role65,"View/Response messages,View Operation Reports,Manage Content Rules,View content reports",124
+role66,"View/Response messages,View Operation Reports,Manage Content",124
+role67,"View/Response messages,View Operation Reports,Manage Content,View content reports",124
+role68,"View/Response messages,View Operation Reports,View Customer Account Balances",134
+role69,"View/Response messages,View Operation Reports,View Customer Account Balances,View only Login As",134
+role70,"View/Response messages,View Operation Reports,View Customer Account Balances,View only Login As,Manage Content",124
+role71,"View/Response messages,View Operation Reports,View Customer Account Balances,View only Login As,Manage Content,View content reports",124
+role72,"View/Response messages,View Operation Reports,View Customer Account Balances,View only Login As,View content reports",134
+role73,"View/Response messages,View Operation Reports,View Customer Account Balances,Manage Content",124
+role74,"View/Response messages,View Operation Reports,View Customer Account Balances,Manage Content,View content reports",124
+role75,"View/Response messages,View Operation Reports,View Customer Account Balances,View content reports",134
+role76,"View/Response messages,View Operation Reports,View content reports",134
+role77,"View/Response messages,Manage Content Rules,View only Login As",124
+role78,"View/Response messages,Manage Content Rules,View only Login As,Manage Content",124
+role79,"View/Response messages,Manage Content Rules,View only Login As,Manage Content,View content reports",124
+role80,"View/Response messages,Manage Content Rules,View only Login As,View content reports",124
+role81,"View/Response messages,Manage Content Rules,Manage Content",128
+role82,"View/Response messages,Manage Content Rules,Manage Content,View content reports",128
+role83,"View/Response messages,Manage Content Rules,View Customer Account Balances",124
+role84,"View/Response messages,Manage Content Rules,View Customer Account Balances,View only Login As",124
+role85,"View/Response messages,Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content",124
+role86,"View/Response messages,Manage Content Rules,View Customer Account Balances,View only Login As,Manage Content,View content reports",124
+role87,"View/Response messages,Manage Content Rules,View Customer Account Balances,View only Login As,View content reports",124
+role88,"View/Response messages,Manage Content Rules,View Customer Account Balances,Manage Content",124
+role89,"View/Response messages,Manage Content Rules,View Customer Account Balances,Manage Content,View content reports",124
+role90,"View/Response messages,Manage Content Rules,View Customer Account Balances,View content reports",124
+role91,"View/Response messages,Manage Content Rules,View content reports",128
+role92,"View/Response messages,Manage Content,View content reports",128
+role93,"View/Response messages,View Customer Account Balances,View only Login As",145
+role94,"View/Response messages,View Customer Account Balances,View only Login As,Manage Content",124
+role95,"View/Response messages,View Customer Account Balances,View only Login As,Manage Content,View content reports",124
+role96,"View/Response messages,View Customer Account Balances,View only Login As,View content reports",145
+role97,"View/Response messages,View Customer Account Balances,Manage Content",124
+role98,"View/Response messages,View Customer Account Balances,Manage Content,View content reports",124
+role99,"View/Response messages,View Customer Account Balances,View content reports",145

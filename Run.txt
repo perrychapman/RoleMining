@@ -1,0 +1,8 @@
+javac -d out -cp "lib/*" src/RoleRecommendation.java
+jar cfm RoleRecommendation.jar MANIFEST.MF -C out .
+
+java --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-exports java.base/sun.nio.ch=ALL-UNNAMED -cp "C:\Java\FpGrowthDemo\lib\*;C:\Java\FpGrowthDemo\RoleRecommendation.jar" RoleRecommendation
+
+java -cp "C:\Java\FpGrowthDemo\lib\*;C:\Java\FpGrowthDemo\src" --add-opens java.base/sun.nio.ch=ALL-UNNAMED RoleRecommendation
+
+spark-submit --conf spark.driver.memory=16g --conf spark.executor.memory=16g --class your.main.Class your-application.jar
