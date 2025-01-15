@@ -41,7 +41,7 @@ public class RoleRecommendation {
                                 .withColumnRenamed("count", "frequency");
 
                 // Filter entitlements that appear in more than 80% of users
-                double minSupportThreshold = 0.80 * totalUsers;
+                double minSupportThreshold = 0.50 * totalUsers;
                 Dataset<Row> filteredEntitlements = entitlementCounts
                                 .filter(functions.col("frequency").geq(minSupportThreshold))
                                 .select("Entitlement");
@@ -64,13 +64,13 @@ public class RoleRecommendation {
                 FPGrowth fpGrowth = new FPGrowth()
                                 .setItemsCol("items")
                                 .setMinSupport(0.01) // Adjust support threshold
-                                .setMinConfidence(0.8);
+                                .setMinConfidence(0.8); // Adjust confidence level threshold
 
                 FPGrowthModel model = fpGrowth.fit(transactions);
 
                 // Filter itemsets to include only those with 3 or more entitlements
                 Dataset<Row> frequentItemsets = model.freqItemsets()
-                                .filter(functions.size(functions.col("items")).geq(3));
+                                .filter(functions.size(functions.col("items")).geq(1));
 
                 // Generate association rules
                 Dataset<Row> associationRules = model.associationRules();
